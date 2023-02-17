@@ -1,0 +1,2 @@
+#nota
+Se guardaran imagenes
